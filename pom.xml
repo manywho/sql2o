@@ -95,7 +95,7 @@
             <scope>test</scope>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>15.0</version>
+            <version>23.0</version>
         </dependency>
     </dependencies>
 
