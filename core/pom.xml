@@ -99,7 +99,7 @@
             <scope>test</scope>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>4.3.1.Final</version>
+            <version>5.4.27.Final</version>
         </dependency>
         <dependency>
             <scope>test</scope>
