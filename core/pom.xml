@@ -123,7 +123,7 @@
             <scope>test</scope>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
-            <version>3.2.4</version>
+            <version>3.5.6</version>
         </dependency>
         <dependency>
             <scope>test</scope>
